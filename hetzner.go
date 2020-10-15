@@ -3,7 +3,7 @@ package hetzner
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/libdns/hetzner"
+	"github.com/ngdio/libdns-hetzner"
 )
 
 // Provider wraps the provider implementation as a Caddy module.
